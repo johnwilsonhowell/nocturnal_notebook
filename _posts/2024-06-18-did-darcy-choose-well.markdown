@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: essays
-title: Did Darcy make a good choice in marrying Elizabeth?
+title: An Essay On Pride and Prejudice *Spoilers*
 ---
 
 _An essay I wrote after reading Pride and Prejudice using the very helpful essay guide by Jordan B Peterson. **Spoilers**_
