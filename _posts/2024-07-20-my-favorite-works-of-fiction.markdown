@@ -8,7 +8,7 @@ categories: favorites
 
 _This morning, I read The Little Prince. It was incredible, and I would highly recommend the novella._ 
 _I started to think about where this book might fit in my overall list of favourites. So, I put one together._ 
-_Of course, these things change, but there is mine on Jully the Twentieth, Two Thousand and Twenty-Four_
+_Of course, these things change, but there is mine on July the Twentieth, Two Thousand and Twenty-Four_
 	
 
 ### _My top five favorite works of fiction:_
