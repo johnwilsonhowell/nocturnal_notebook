@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: essays
-title: The Little Prince, The Fox, and Friendship: An Essay
+title: "The Little Prince, The Fox, and Friendship"
 ---
 
 _I recently read The Little Prince. It is a wonderful book with a lot to unpack. I would highly recommend Antoine's beloved novela_
