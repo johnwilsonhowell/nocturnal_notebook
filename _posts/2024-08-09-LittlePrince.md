@@ -4,7 +4,7 @@ categories: essays
 title: "The Little Prince, The Fox, and Friendship"
 ---
 
-_I recently read The Little Prince. It is a wonderful book with a lot to unpack. I would highly recommend Antoine's beloved novela_
+_I recently read The Little Prince. It is a wonderful book with a lot to unpack. I would highly recommend Antoine's beloved novella. **Spoilers**_
 
 ## What is the meaning of the Fox chapters in The Little Prince?
 
