@@ -52,9 +52,9 @@
       var now = new Date();
       var toggleAt = new Date();
       var hours = now.getHours();
-      var nightShift = true; 
+      var nightShift = hours >= 19 || hours <=7; 
       // I changed this to make night mode the default
-      // hours >= 19 || hours <=7;
+      // hours >= 19 || hours <=7; But then I changed it back 4/14/2025
       if (nightShift) {
         if (hours > 7) {
           toggleAt.setDate(toggleAt.getDate() + 1);
