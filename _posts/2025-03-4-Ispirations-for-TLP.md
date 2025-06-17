@@ -1,0 +1,22 @@
+---
+layout: post
+categories: essays
+title: The Little Prince Seems To Have No Literary Inspiration
+---
+
+## Essay on The Little Prince
+
+The Little Prince is a novella with seemingly no literary inspiration. While there is much ink spilt about the real-life influences of the Little Prince, there is little to no evidence of any major literary influences. This would be an extraordinary thing indeed if it were true. Every other great work that comes to mind has at least one significant influence. Antoine de Saint-Exuprey had probably read books that influenced his style, but they are hard to detect. None of the books written before or even after his time have the same childish, dream-like quality. All the major characters seem almost entirely inspired by real-life people. Only the planet-hopping episode resembles Dante, but everything else, while surely inspired by many things, doesn’t have any significant literary inspirations.
+
+The Little Prince is the most unique part of the novella. There is not a lot of literature written before this point in time that prominently features children. There are accounts of child protagonists like David and Jesus, but the focus is on what these people did as adults. There are fairytales and the like that are about children, but these do not have the mysterious and life-pondering theme of The Little Prince. It is a very deep book. Perhaps the story’s newness comes from the fact that he adopts a mysterious child’s view to tell the story. But unlike the children in fairytales, The Little Prince is unlike most real children (who only have Little Prince moments now and then). The Little Prince is wrestling with questions that are at the heart of the human experience. He is at once a child and more grown up than grown-ups. His childness seems to be transcendent. While he is certainly a child, he ponders the things the grown-ups consider. His character is unlike any before him (or after him).
+
+No other book has quite the same tone and metaphysicalness as The Little Prince. But, poems from the age of Romanticism come close. In I Wandered Lonely as a Cloud, the author wanders on a windy day and sees a group of yellow followers. He pauses for a very long time to look at them. This sounds like something The Little Prince would do. But, in many poems of this age, the authors are still quite conscious that they are, in fact, adults and that they are glimpsing the world of The Little Prince like the pilot. They all seem like pilgrims to that place, but the Little Prince is from that place, and he is telling us about it. The Little Prince is the narrator of his own quest, and the themes and tone of loneliness are only touched by great poems. I am not stating that The Little Prince is higher than these poems. I am only saying that it is quite unique in tone and character, though it seems to be related to many things. No one influence or movement created the book. This novella is a uniquely human story. Perhaps this is because it is not an imitation of humanity but the real thing itself.
+
+The rose in the story is inspired by the author’s wife and their tempestuous relationship. The author’s wife accused him of numerous infidelities, coldness, cruelty, and bitterness in a manuscript called The Tale of the Rose. The depth and wisdom seen in the author’s portrayal of the rose could only come from personal experience. The Little Prince seems to be an examination of their relationship and, universally, the relationship of men and women. It does seem similar to Voltaire’s Candide, which ultimately states that the best way to live is to tend one’s own garden, but the similarities end there. The story also seems to be something of a love letter to his wife because, in the end, the prince knows that he needs to return to her and care for her. 
+
+In summary, The Little Prince is a work that is breathtaking in its originality. While there are hits and glimmers of other works in this story, it is impossible to find the major influences or even to put this novella in a genre. The clearest inspirations for the story were from Antoine de Saint-Exupery’s own life. The books that are most like The Little Prince are the author’s own works, most notably Wind, Sand and Stars. Antoine had developed a pen unlike any other. This pen was the work of a lifetime. Perhaps it is time and life more than any monolithic inspiration that made The Little Prince one of the greatest books of all time.
+
+#### References 
+
+The Little Prince by Antoine de Saint-Exupéry
+

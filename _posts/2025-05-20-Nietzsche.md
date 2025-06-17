@@ -27,6 +27,8 @@ Nietzsche is philosophy's great antagonist and leveller. Questions are his hamme
 #### References
 
 Beyond Good and Evil by Friedrich Nietzsche
+
 The Will to Power by Friedrich Nietzsche
+
 Thus Spoke Zarathustra by Friedrich Nietzsche
 
